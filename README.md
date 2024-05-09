@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulaiman
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me on twitter @Abu_Sman01
 
